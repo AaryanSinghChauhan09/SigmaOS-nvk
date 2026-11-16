@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-nvk"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS nvk component - graphics"
+
+[lib]
+name = "nvk"
+path = "src/lib.rs"
