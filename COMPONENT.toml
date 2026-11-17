@@ -3,7 +3,7 @@ name = "SigmaOS-nvk"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "nvk component"
+description = "NVK"
 upstream = []
 
 [contract]
